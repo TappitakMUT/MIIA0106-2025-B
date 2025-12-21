@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\MIIA0106-2025-B\\LAB06\\LAB0601\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22FEA6F5-2D6D-49CB-B722-51E688E3FADF}|..\\LAB0603\\LAB0603.vcxproj|C:\\Users\\User\\MIIA0106-2025-B\\LAB06\\LAB0603\\LAB0603.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4323093-9956-49A1-A1CC-4DACDB990E0A}|..\\LAB0604\\LAB0604.vcxproj|C:\\Users\\User\\MIIA0106-2025-B\\LAB06\\LAB0604\\LAB0604.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8177C6D-BF09-471D-A236-4610FCC1F86C}|..\\LAB0602\\LAB0602.vcxproj|C:\\Users\\User\\MIIA0106-2025-B\\LAB06\\LAB0602\\LAB0602.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD43637-3659-4FEF-8A5F-DEE75E40937F}|LAB0601.vcxproj|C:\\Users\\User\\MIIA0106-2025-B\\LAB06\\LAB0601\\LAB0601.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDD43637-3659-4FEF-8A5F-DEE75E40937F}|LAB0601.vcxproj|solutionrelative:LAB0601.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB0604.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\MIIA0106-2025-B\\LAB06\\LAB0604\\LAB0604.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0604\\LAB0604.cpp",
+              "ToolTip": "C:\\Users\\User\\MIIA0106-2025-B\\LAB06\\LAB0604\\LAB0604.cpp",
+              "RelativeToolTip": "..\\LAB0604\\LAB0604.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T09:54:12.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB0602.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\MIIA0106-2025-B\\LAB06\\LAB0602\\LAB0602.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0602\\LAB0602.cpp",
+              "ToolTip": "C:\\Users\\User\\MIIA0106-2025-B\\LAB06\\LAB0602\\LAB0602.cpp",
+              "RelativeToolTip": "..\\LAB0602\\LAB0602.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-20T09:47:12.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB0603.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\MIIA0106-2025-B\\LAB06\\LAB0603\\LAB0603.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0603\\LAB0603.cpp",
+              "ToolTip": "C:\\Users\\User\\MIIA0106-2025-B\\LAB06\\LAB0603\\LAB0603.cpp",
+              "RelativeToolTip": "..\\LAB0603\\LAB0603.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-20T09:46:47.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB0601.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\MIIA0106-2025-B\\LAB06\\LAB0601\\LAB0601.cpp",
+              "RelativeDocumentMoniker": "LAB0601.cpp",
+              "ToolTip": "C:\\Users\\User\\MIIA0106-2025-B\\LAB06\\LAB0601\\LAB0601.cpp",
+              "RelativeToolTip": "LAB0601.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-20T09:44:43.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
