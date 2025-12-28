@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int score = 50;
+    int* ptr = &score;
+
+    // TODO
+    cout << " value of score is \t" << score << endl;
+    cout << " value of ptr is \t" << ptr << endl;
+
+    cout << " Address of score is \t" << &score << endl;
+    cout << " Address of ptr is \t" << &ptr << endl;
+
+
+    return 0;
+}
