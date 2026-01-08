@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/" />
+  <Project Path="../LAB405/LAB405.vcxproj" />
+  <Project Path="LAB404.vcxproj" />
+</Solution>
